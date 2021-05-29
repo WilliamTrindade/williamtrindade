@@ -1,12 +1,11 @@
 ### Hi there 👋
 ___
-## Status :
-<a href="https://github.com/williamtrindade/williamtrindade">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=williamtrindade&show_icons=true" />
-</a>
+### Status :
+Backend Developer at [@crmpiperun](https://github.com/crmpiperun)  
+Systems for Internet student at [UFSM - BR](https://www.ufsm.br/)
 
 ___
-## My Projects Categories :
+### My Projects Categories :
 - [Side Projects](https://github.com/williamtrindade?tab=repositories&q=side-project&type=&language=&sort=)
 - [College Projects](https://github.com/williamtrindade?tab=repositories&q=college-project&type=&language=&sort=)
 - [College Materials](https://github.com/williamtrindade?tab=repositories&q=csi-&type=&language=&sort=)
