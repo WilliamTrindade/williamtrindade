@@ -9,5 +9,6 @@ ___
 - [Side Projects](https://github.com/williamtrindade?tab=repositories&q=side-project&type=&language=&sort=)
 - [College Projects](https://github.com/williamtrindade?tab=repositories&q=college-project&type=&language=&sort=)
 - [College Materials](https://github.com/williamtrindade?tab=repositories&q=csi-&type=&language=&sort=)
+- [Google Cloud Courses](https://github.com/williamtrindade?tab=repositories&q=google-cloud-course&type=&language=&sort=)
 - [Alura Courses](https://github.com/williamtrindade?tab=repositories&q=alura&type=&language=&sort=)
 - [Rocketseat Courses](https://github.com/williamtrindade?tab=repositories&q=rocketseat&type=&language=&sort=)
