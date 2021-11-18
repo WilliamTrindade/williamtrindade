@@ -14,3 +14,13 @@ ___
 - [Rocketseat Courses](https://github.com/williamtrindade?tab=repositories&q=rocketseat-&type=&language=&sort=)
 - [Prepara Cursos Courses](https://github.com/williamtrindade?tab=repositories&q=prepara-cursos-&type=&language=&sort=)
 - [Talks Projects](https://github.com/williamtrindade?tab=repositories&q=talk-&type=&language=&sort=)
+___
+### Dev Profiles :
+- [LeetCode](https://leetcode.com/williamtrindade/)
+- [Project Euler](https://projecteuler.net/progress=williamtrindade)
+- [TopCoder](https://www.topcoder.com/members/williamtrindade)
+- [CodeForces](https://codeforces.com/profile/williamtrindade)
+- [beecrowd](https://www.beecrowd.com.br/judge/pt/profile/252375)
+- [HackerRank](https://www.hackerrank.com/williamtrindade?hr_r=1)
+- [CodinGame](https://www.codingame.com/profile/a04c0575236209e54af513d73195e9a54605392)
+- [HackerEarth](https://www.hackerearth.com/@williamtrindade777)
