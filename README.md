@@ -5,6 +5,7 @@ Backend Developer at [@crmpiperun](https://github.com/crmpiperun)
 Systems for Internet student at [UFSM - Brazil](https://www.ufsm.br/)
 ___
 ### Social Profiles :
+- [YouTube](https://www.youtube.com/channel/UCTRhg1SWfL5HnF6-9xuIg-A)
 - [Linkedin](https://www.linkedin.com/in/williamdatrindade/)
 - [Facebook](https://www.facebook.com/williamdtrindade/)
 - [Instagram](https://www.instagram.com/williamtrindadedev/)
