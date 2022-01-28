@@ -7,7 +7,7 @@ ___
 ### Social Profiles :
 - [YouTube](https://www.youtube.com/channel/UCTRhg1SWfL5HnF6-9xuIg-A)
 - [Linkedin](https://www.linkedin.com/in/williamdatrindade/)
-- [Facebook](https://www.facebook.com/williamdtrindade/)
+- [Facebook](https://www.facebook.com/williamtrindadedev/)
 - [Instagram](https://www.instagram.com/williamtrindadedev/)
 - [Twitter](https://twitter.com/willtrindadedev)
 - [Telegram](https://t.me/williamtrindade)
