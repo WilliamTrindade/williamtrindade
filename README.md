@@ -1,7 +1,7 @@
 ### Hi there 👋
 ___
 ### Status :
-Backend Developer at [@crmpiperun](https://github.com/crmpiperun)  
+Backend Developer.
 Systems for Internet student at [UFSM - Brazil](https://www.ufsm.br/)
 ___
 ### Social Profiles :
