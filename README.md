@@ -1,7 +1,7 @@
 ### Hi there 👋
 ___
 ### Status :
-Backend Developer.
+Backend Developer.  
 Systems for Internet student at [UFSM - Brazil](https://www.ufsm.br/)
 ___
 ### Social Profiles :
