@@ -1,8 +1,9 @@
 ### Hi there 👋
+I'm a Software Engineer, passionate about learn and use new technologies and solving complex problems, using the most diverse programming languages, mostly using PHP, Java and JS. I'm majoring in Systems for Internet, working as a Full-Stack developer and producing content for my personal website.
 ___
 ### Status :
-Backend Developer.  
-Systems for Internet student at [UFSM - Brazil](https://www.ufsm.br/)
+Full-stack Developer.  
+Systems for Internet student [@UFSM - Brazil](https://www.ufsm.br/)
 ___
 ### Social Profiles :
 - [YouTube](https://www.youtube.com/channel/UCTRhg1SWfL5HnF6-9xuIg-A)
