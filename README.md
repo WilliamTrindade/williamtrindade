@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm a Software Engineer, passionate about learn and use new technologies and solving complex problems, using the most diverse programming languages, mostly using PHP, Java and JS. I'm majoring in Systems for Internet, working as a Full-Stack developer and producing content for my personal website.
+
 ___
 ### Status :
 Full-stack Developer.  
