@@ -11,7 +11,7 @@ ___
 - [Podcast](https://anchor.fm/williamtrindade)
 - [Linkedin](https://www.linkedin.com/in/williamdatrindade/)
 - [Facebook](https://www.facebook.com/williamtrindadedev/)
-- [Instagram](https://www.instagram.com/williamtrindadedev/)
+- [Instagram](https://www.instagram.com/williamtrindade.dev/)
 - [Twitter](https://twitter.com/willtrindadedev)
 - [Telegram](https://t.me/williamtrindade)
 ___
