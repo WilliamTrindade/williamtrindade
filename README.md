@@ -13,7 +13,6 @@ ___
 - [Facebook](https://www.facebook.com/williamtrindadedev/)
 - [Instagram](https://www.instagram.com/williamtrindade.dev/)
 - [Twitter](https://twitter.com/willtrindadedev)
-- [Telegram](https://t.me/williamtrindade)
 ___
 ### Dev Profiles :
 - [LeetCode](https://leetcode.com/williamtrindade/)
