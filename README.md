@@ -7,12 +7,9 @@ Full-stack Developer.
 Systems for Internet student [@UFSM - Brazil](https://www.ufsm.br/)
 ___
 ### Social Profiles :
-- [YouTube](https://www.youtube.com/channel/UCTRhg1SWfL5HnF6-9xuIg-A)
-- [Podcast](https://anchor.fm/williamtrindade)
 - [Linkedin](https://www.linkedin.com/in/williamdatrindade/)
-- [Facebook](https://www.facebook.com/williamtrindadedev/)
 - [Instagram](https://www.instagram.com/williamtrindade.dev/)
-- [Twitter](https://twitter.com/willtrindadedev)
+- [X](https://twitter.com/willtrindadedev)
 ___
 ### Dev Profiles :
 - [LeetCode](https://leetcode.com/williamtrindade/)
