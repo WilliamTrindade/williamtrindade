@@ -9,7 +9,6 @@ ___
 ### Social Profiles :
 - [Linkedin](https://www.linkedin.com/in/williamdatrindade/)
 - [Instagram](https://www.instagram.com/williamtrindade.dev/)
-- [X](https://twitter.com/willtrindadedev)
 ___
 ### Dev Profiles :
 - [LeetCode](https://leetcode.com/williamtrindade/)
