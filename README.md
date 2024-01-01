@@ -6,11 +6,6 @@ ___
 Full-stack Developer.  
 Systems for Internet student [@UFSM - Brazil](https://www.ufsm.br/)
 ___
-### Social Profiles :
-- [Linkedin](https://www.linkedin.com/in/williamdatrindade/)
-- [Instagram](https://www.instagram.com/williamtrindade.dev/)
-- [Medium](https://medium.com/@williamtrindadedev)
-___
 ### Dev Profiles :
 - [LeetCode](https://leetcode.com/williamtrindade/)
 - [Project Euler](https://projecteuler.net/progress=williamtrindade)
